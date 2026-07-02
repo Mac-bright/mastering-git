@@ -1,5 +1,5 @@
-## Welcome git
+## Welcome to git
 
 - Yo, Sammy here!
-- This is  from Sammy.
+- Just wanted to know if everyone is okay.
 - I'm adding this feature from feature-branch
