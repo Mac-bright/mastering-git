@@ -1,4 +1,5 @@
-## hey oo everyone, welcome to my guide.
+## Welcome git
 
-- Hello, Sammy here what's up!
-- I'm adding this feature from feature-branch
+Yo, Johnny here!
+This is coming from "dev-mb"
+I'm adding this feature from feature-branch
