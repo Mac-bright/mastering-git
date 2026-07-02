@@ -1,5 +1,5 @@
 ## Welcome git
 
-- Yo, Johnny here!
-- This is coming from "dev-mb"
+- Hi, Mb here!
+- Just wanted to know if everyone is okay.
 - I'm adding this feature from feature-branch
