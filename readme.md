@@ -1,4 +1,4 @@
-## Welcome git
+## Welcome to git
 
 - Hi, Mb here!
 - Just wanted to know if everyone is okay.
